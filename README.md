@@ -1,5 +1,1 @@
 # gitPractice
-
-A
-B
-C

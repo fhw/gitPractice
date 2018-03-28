@@ -1,4 +1,2 @@
 # gitPractice
-
-A
-B
+AAAA
